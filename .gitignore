@@ -1,0 +1,19 @@
+# Vagrant
+.vagrant
+
+# osx
+.DS_Store
+
+# python
+.pyc
+
+# lib
+puppet/modules
+app/node_modules
+app/public/bower_components
+
+# log
+app/npm-debug.log
+
+# build
+app/public/build/*
